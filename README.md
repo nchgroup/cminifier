@@ -11,5 +11,11 @@ Usage of ./cminifier:
         Path to the output file. If not specified, output will be printed to the console.
 ```
 
+# Build
+
+```
+go build .
+```
+
 # Inspiration
 Original code in Python: https://github.com/Scylardor/cminify
